@@ -1,0 +1,34 @@
+.dh-header-non-rectangular-container h1, p {
+  color: white;
+  font-weight: bold;
+}
+
+.clearmargin {
+  margin: 0px;
+}
+
+.clearpadding {
+  padding: 0px;
+}
+
+.row-image-txt {
+  background-color: rgb(42,42,42);
+}
+
+.row-image-txt h1 {
+  color: white;
+}
+
+.row-image-txt p {
+  color: white;
+}
+
+.btn.btn-primary.post {
+}
+
+select.form-control[multiple], select.form-control[size], textarea.form-control {
+  height: 130px;
+  background-color: #ffffff;
+  color: #ffffff;
+}
+
